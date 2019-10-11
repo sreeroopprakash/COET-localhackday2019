@@ -1,3 +1,6 @@
 # Annlee - [AnnleeFores](https://github.com/AnnleeFores)
 # Thejaswi - [Thejaswi-P](https://github.com/Thejaswi-P)
-# Somebody - [Somebody](www.somebody.com)
+# somebody - [Somebody](www.somebody.com)
+# sreeroop - [sreeroop](https://github.com/sreeroop)
+# akhil - [akhil](https://github.com/akhil)
+# jithin - [jithin](https://github.com/jithin)
